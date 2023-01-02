@@ -7,10 +7,9 @@ I am passionate about technology and driven by challenges, which is why I am tra
 - 👯 I'm looking to collaborate in Full Stack Developer, Front-end or Back-end
 - ⚡ Curiosity: I almost became a professional indoor soccer goalkeeper, in a game I had a serious knee injury which made me leave the courts professionally and made me become a physiotherapist.
 
-<div align = 'center'>
+<div align = 'center' >
 <a href="https://github.com/sergiofisio">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiofisio&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=sergiofisio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiofisio&layout=compact&langs_count=7&theme=dracula"/> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sergiofisio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
@@ -28,4 +27,3 @@ I am passionate about technology and driven by challenges, which is why I am tra
 <a href = 'https://wa.me/+55-(11)965932620' target='_blank'><img src = 'https://scontent.fcgh3-1.fna.fbcdn.net/v/t39.8562-6/302545850_624095499080233_2353782457618232690_n.png?_nc_cat=106&ccb=1-7&_nc_sid=6825c5&_nc_ohc=YRmNGOrSuLIAX_Fl0BR&_nc_ht=scontent.fcgh3-1.fna&oh=00_AfAt-WSON_Fuq6X57cz72qi7Ew2BQe3WxW4CaEyBgaGVdA&oe=63B6D06C' target="_blank" width = '130'></a>
 </div>
 <br>
-
