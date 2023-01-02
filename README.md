@@ -9,8 +9,8 @@ I am passionate about technology and driven by challenges, which is why I am tra
 
 <div align = 'center'>
 <a href="https://github.com/sergiofisio">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiofisio&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiofisio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiofisio&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=sergiofisio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
