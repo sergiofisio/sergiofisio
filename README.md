@@ -22,9 +22,8 @@ I am passionate about technology and driven by challenges, which is why I am tra
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width= '100' height= '100'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= '100' height= '100' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width= '100' height= '100' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= '100' height= '100'/>
 
-
-![Snake animation](https://github.com/sergiofisio/sergiofisio/blob/output/github-contribution-grid-snake.svg)
 </div>
+![Snake animation](https://github.com/sergiofisio/sergiofisio/blob/output/github-contribution-grid-snake.svg)
 
 ## Contacts:
 
