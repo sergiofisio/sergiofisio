@@ -9,11 +9,8 @@ I am passionate about technology and driven by challenges, which is why I am tra
 
 <br>
 
-<div align = 'center' >
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiofisio&show_icons=true&theme=radical)
 
-<a href="https://github.com/sergiofisio">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiofisio&layout=compact&langs_count=7&theme=dracula"/> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sergiofisio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 <br>
 
 <div align = 'center'>
