@@ -9,7 +9,7 @@ I am passionate about technology and driven by challenges, which is why I am tra
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiofisio&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiofisio&show_icons=true&theme=dracula)
 
 <br>
 
