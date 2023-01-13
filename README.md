@@ -9,7 +9,14 @@ I am passionate about technology and driven by challenges, which is why I am tra
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiofisio&show_icons=true&theme=dracula) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergiofisio&repo=github-readme-stats)
+<div align = 'center'>
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sergiofisio&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sergiofisio&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=sergiofisio&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api?username=sergiofisio&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+ 
+ </div>
 
 <br>
 
