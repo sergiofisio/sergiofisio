@@ -4,7 +4,8 @@
 [Portugues](#pt) / [English](#en) / [Français](#fr)
 
 <a id='pt'></a>
-## Português ([voltar](#inicio))
+## Português 
+## [voltar](#inicio)
  
 <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-brazil_1f1e7-1f1f7.png"/> 
 
@@ -38,7 +39,8 @@
 <br/>
 
 <a id='en'></a>
-## English ([voltar](#inicio))
+## English 
+## [voltar](#inicio)
  
 <img align="center" src="https://user-images.githubusercontent.com/89741627/212705491-d895d872-27f6-4880-a5ca-b9440fb622e0.png"/> <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-england_1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png"/>
 
@@ -80,7 +82,8 @@
 <p><a href="https://www.buymeacoffee.com/sergiobastos"> <img src='https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black' alt='buy me a coffee' height="50"</p>
 
 <a id='fr'></a>
-## Francais ([voltar](#inicio))
+## Francais
+## [voltar](#inicio)
  
 <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-france_1f1eb-1f1f7.png"/>
 
