@@ -7,9 +7,7 @@ I am passionate about technology and driven by challenges, which is why I am tra
 - 👯 I'm looking to collaborate in Full Stack Developer, Front-end or Back-end
 - ⚡ Curiosity: I almost became a professional indoor soccer goalkeeper, in a game I had a serious knee injury which made me leave the courts professionally and made me become a physiotherapist.
 
- ## Contacts:
-
-<div align = 'center'>
+ Contacts: <div align = 'center'>
 <a href = "mailto:sergiobastosfisio@yahoo.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sergio-bastos-jr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
 <a href = 'https://wa.me/+55-(11)965932620' target='_blank'><img src = 'https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' target="_blank"></a>
