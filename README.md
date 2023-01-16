@@ -17,7 +17,7 @@ Portugues / English / Français
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sergio-bastos-jr/?locale=en_US" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sergio-bastos-jr" height="50" /></a>
+<a href="https://www.linkedin.com/in/sergio-bastos-jr/?locale=en_US" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sergio-bastos-jr" height="50" />
 <a href="https://discord.gg/sergiofisio#0177" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="sergiofisio#0177" height="50" /></a>
 </p>
 
