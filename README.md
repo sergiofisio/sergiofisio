@@ -1,13 +1,11 @@
 <a id='inicio'></a> 
-# SELECT LANGUAGE
-
-[Portugues](#pt) / [English](#en) / [Français](#fr)
+#### Select language: [pt](#pt) / [en](#en) / [fr](#fr)
 
 <a id='pt'></a>
 
-## <div align='center'> Português <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-brazil_1f1e7-1f1f7.png" width=30/> ([voltar](#inicio))</div>
+## <div align='center'> Português <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-brazil_1f1e7-1f1f7.png" width=30/> ([voltar](#inicio))</div>
 
-<h1 align="center">Olá 👋, me chamo Sergio Bastos e meu apelido é "sergiofisio"!</h1>
+<h1 align="center" font-size='50px'>Olá 👋, me chamo Sergio Bastos e meu apelido é "sergiofisio"!</h1>
 <h3 align="center">Sou apaixonado por tecnologia e motivado por desafios, e é por isso que estou fazendo a transição da minha carreira de Fisioterapia para Full Stack Software Development.</h3>
 
 - 🌱 Atualmente estou aprendendo **ReactJS, Typescript, NodeJS, HTML, CSS e Javascript**
@@ -37,10 +35,7 @@
 <br/>
 
 <a id='en'></a>
-## English 
-## [voltar](#inicio)
- 
-<img align="center" src="https://user-images.githubusercontent.com/89741627/212705491-d895d872-27f6-4880-a5ca-b9440fb622e0.png"/> <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-england_1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png"/>
+ ## <div align='center'> English <img align="center" src="https://user-images.githubusercontent.com/89741627/212705491-d895d872-27f6-4880-a5ca-b9440fb622e0.png" width=30/> <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-england_1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png" width=30/> ([voltar](#inicio))</div>
 
 <h1 align="center">Hi 👋, I'm Sergio Bastos and my nickname is "sergiofisio"!</h1>
 <h3 align="center">I am passionate about technology and driven by challenges, which is why I am transitioning my career from Physiotherapy to Full Stack Software Development.</h3>
@@ -80,10 +75,7 @@
 <p><a href="https://www.buymeacoffee.com/sergiobastos"> <img src='https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black' alt='buy me a coffee' height="50"</p>
 
 <a id='fr'></a>
-## Francais
-## [voltar](#inicio)
- 
-<img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-france_1f1eb-1f1f7.png"/>
+## <div align='center'> Français <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-france_1f1eb-1f1f7.png" width=30/> [voltar](#inicio) </div>
 
 <h1 align="center">Salut 👋, je suis Sergio Bastos et mon surnom est "sergiofisio" !</h1>
 <h3 align="center">Je suis passionné par la technologie et motivé par les défis, c'est pourquoi je fais la transition de ma carrière de physiothérapie vers le développement de logiciels Full Stack.</h3>
