@@ -16,8 +16,6 @@
 
 - 📫 Você pode me chamar pelo email **sergiobastosfisio@yahoo.com.br**
 
-- ⚡ Curiosidade **Quase me tornei goleiro profissional de futsal, em um jogo tive uma lesão grave no joelho que me fez abandonar as quadras profissionalmente e me fez me tornar fisioterapeuta.**
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sergio-bastos-jr" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sergio-bastos-jr" height="50" />
@@ -47,8 +45,6 @@
 - 💬 Ask me about **Javascript, HTML or CSS**
 
 - 📫 How to reach me **sergiobastosfisio@yahoo.com.br**
-
-- ⚡ Fun fact **I almost became a professional indoor soccer goalkeeper, in a game I had a serious knee injury which made me leave the courts professionally and made me become a physiotherapist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -88,11 +84,9 @@
 
 - 📫Comment me contacter **sergiobastosfisio@yahoo.com.br**
 
-- ⚡ Curiosité ** J'ai failli devenir gardien de but professionnel en futsal, lors d'un match, j'ai eu une grave blessure au genou qui m'a fait quitter les courts professionnellement et m'a fait devenir kinésithérapeute. **
-
 <h3 align="left">Connectez-vous avec moi:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sergio-bastos-jr/?locale=en_US" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sergio-bastos-jr" height="50" />
+<a href="https://www.linkedin.com/in/sergio-bastos-jr/?locale=fr_FR" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sergio-bastos-jr" height="50" />
 <a href="https://discord.gg/sergiofisio#0177" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="sergiofisio#0177" height="50" /></a>
 </p>
 
