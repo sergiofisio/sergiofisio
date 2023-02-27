@@ -3,7 +3,7 @@
 
 <a id='pt'></a>
 
-## <div align='center'> Português <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-brazil_1f1e7-1f1f7.png" width=30/> ([voltar](#inicio))</div>
+## <div align='center'> Português <img align="center" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" width=30/> ([voltar](#inicio))</div>
 
 <h1 align="center" font-size='50px'>Olá 👋, me chamo Sergio Bastos e meu apelido é "sergiofisio"!</h1>
 <h3 align="center">Sou apaixonado por tecnologia e motivado por desafios, e é por isso que estou fazendo a transição da minha carreira de Fisioterapia para Full Stack Software Development.</h3>
