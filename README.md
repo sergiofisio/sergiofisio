@@ -12,7 +12,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/sergiofisio?tab=repositories](https://github.com/sergiofisio?tab=repositories)
 
-- 💬 Pergunte-me sobre **Javascript, HTML ou CSS**
+- 💬 Pergunte-me sobre **React, Javascript, HTML ou CSS**
 
 - 📫 Você pode me chamar pelo email **sergiobastosfisio@yahoo.com.br**
 
@@ -42,7 +42,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sergiofisio?tab=repositories](https://github.com/sergiofisio?tab=repositories)
 
-- 💬 Ask me about **Javascript, HTML or CSS**
+- 💬 Ask me about **React, Javascript, HTML or CSS**
 
 - 📫 How to reach me **sergiobastosfisio@yahoo.com.br**
 
@@ -80,7 +80,7 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/sergiofisio?tab=repositories](https://github.com/sergiofisio?tab=repositories)
 
-- 💬 Posez-moi des questions sur **Javascript, HTML ou CSS**
+- 💬 Posez-moi des questions sur **React, Javascript, HTML ou CSS**
 
 - 📫Comment me contacter **sergiobastosfisio@yahoo.com.br**
 
