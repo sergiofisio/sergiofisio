@@ -8,7 +8,7 @@
 <h1 align="center" font-size='50px'>Olá 👋, me chamo Sergio Bastos e meu apelido é "sergiofisio"!</h1>
 <h3 align="center">Sou apaixonado por tecnologia e motivado por desafios, e é por isso que estou fazendo a transição da minha carreira de Fisioterapia para Full Stack Software Development.</h3>
 
-- 🌱 Atualmente estou aprendendo **ReactJS, Typescript, NodeJS, HTML, CSS e Javascript**
+- 🌱 Tenho fortes conhecimentos em **ReactJS, Typescript, Tailwind, Angular, Nest.js, Next.js, NodeJS, HTML, CSS e Javascript**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/sergiofisio?tab=repositories](https://github.com/sergiofisio?tab=repositories)
 
@@ -49,7 +49,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Bastos and my nickname is "sergiofisio"!</h1>
 <h3 align="center">I am passionate about technology and driven by challenges, which is why I am transitioning my career from Physiotherapy to Full Stack Software Development.</h3>
 
-- 🌱 I’m currently learning **ReactJS, Typescript, NodeJS, HTML, CSS and Javascript**
+- 🌱I have strong expertise in **ReactJS, Typescript, Tailwind, Angular, Nest.js, Next.js, NodeJS, HTML, CSS, and Javascript**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/sergiofisio?tab=repositories](https://github.com/sergiofisio?tab=repositories)
 
@@ -87,7 +87,7 @@
 <h1 align="center">Salut 👋, je suis Sergio Bastos et mon surnom est "sergiofisio" !</h1>
 <h3 align="center">Je suis passionné par la technologie et motivé par les défis, c'est pourquoi je fais la transition de ma carrière de physiothérapie vers le développement de logiciels Full Stack.</h3>
 
-- 🌱 j'apprends actuellement **ReactJS, Typescript, NodeJS, HTML, CSS et Javascript**
+- 🌱 J'ai une solide expertise en **ReactJS, Typescript, Tailwind, Angular, Nest.js, Next.js, NodeJS, HTML, CSS et Javascript**.
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/sergiofisio?tab=repositories](https://github.com/sergiofisio?tab=repositories)
 
