@@ -1,6 +1,6 @@
 <a id='inicio'></a>
 
-### 🌍 Escolha o idioma / Select your language / Choisissez la langue: [🇧🇷 pt](#pt) / [🇺🇸 en](#en) / [🇫🇷 fr)
+### 🌍 Escolha o idioma / Select your language / Choisissez la langue: [🇧🇷 pt](#pt) / [🇺🇸 en](#en) / [🇫🇷 fr](#fr)
 
 ---
 
